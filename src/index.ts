@@ -35,7 +35,7 @@ export function estimateDFMC(predictionTime: string, predictionMonth: number, so
         let airTemperatureString = getAirTemperatureString(slope);
         let relativeHumidityString = getRelativeHumidityString(slope);
 
-        dfmc = findDFMCRegistry(predictionTime, airTemperature, relativeHumidity);
+        dfmc = findDFMCRegistry(predictionTimeString, airTemperatureString, relativeHumidityString);
 
         if (predictionTime >= "08:00" && predictionTime <= "19:59") {
             let predictionMonthString = getPredictionMonthString(predictionMonth);
@@ -110,45 +110,58 @@ function getPredictionMonthString(monthValue: number): string {
 }
 
 
-function getPredictionTimeString(slope: number): string {
-    if (slope > 0 && slope <= 30) {
-        return "0-30";
-    } else if (slope > 30) {
-        return ">30";
-    } else {
-        return "0";
+function getPredictionTimeString(timeValue) {
+    if (timeValue >= "08:00" && timeValue <= "19:59") {
+        return "08:00-19:59";
+    }
+    else {
+        return "20:00-07:59";
     }
 }
-
-
-function getAirTemperatureString(temperature: number): string {
+function getAirTemperatureString(temperature) {
     if (temperature >= 0 && temperature <= 9) {
         return "0-9";
-    } else if (temperature >= 10 && temperature <= 20) {
+    }
+    else if (temperature >= 10 && temperature <= 20) {
         return "10-20";
-    } else if (temperature >= 21 && temperature <= 31) {
+    }
+    else if (temperature >= 21 && temperature <= 31) {
         return "21-31";
-    } else if (temperature >= 32 && temperature <= 42) {
+    }
+    else if (temperature >= 32 && temperature <= 42) {
         return "32-42";
-    } else if (temperature >= 43) {
+    }
+    else if (temperature >= 43) {
         return "43";
     }
 }
+function getRelativeHumidityString(hrValue) {
+    let minInterval = 0;
+    let maxInterval = 4;
 
-function getRelativeHumidityString(hr: number): string {
-    return ""
+    if(hrValue === 100){
+        return "100";
+    }
+    
+    while (maxInterval != 99) {
+        if (hrValue >= minInterval && hrValue <= maxInterval) {
+            return minInterval + "-" + maxInterval;
+        }
+        minInterval += 5;
+        maxInterval += 5;
+    } 
 }
-
-function getSlopeString(slope: number): string {
+function getSlopeString(slope) {
     if (slope > 0 && slope <= 30) {
         return "0-30";
-    } else if (slope > 30) {
+    }
+    else if (slope > 30) {
         return ">30";
-    } else {
+    }
+    else {
         return "0";
     }
 }
-
 
 function findDFMCRegistry(predictionTime, airTemperature, relativeHumidity) {
     const rows = entradas.entradas.entrada;
