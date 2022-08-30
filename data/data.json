@@ -1,0 +1,1266 @@
+{
+	"entradas": {
+	  "entrada": [
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "08:00-19:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "0-4",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 1
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "5-9",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "10-14",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 3
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "15-19",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 2
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "20-24",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 4
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "25-29",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 5
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "30-34",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 7
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "35-39",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 6
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "40-44",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "45-49",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 8
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "50-54",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "55-59",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 9
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "60-64",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 10
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "65-69",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 11
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 14
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 14
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 13
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "70-74",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 12
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 16
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 16
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 15
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 14
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "75-79",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 14
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 18
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 17
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 17
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 16
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "80-84",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 16
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 21
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 20
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 20
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 19
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "85-89",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 19
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 24
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 23
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 23
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 22
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "90-94",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 21
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "95-99",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 24
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "0-9",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "10-20",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "21-31",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": "32-42",
+		  "humedadResultado": 25
+		},
+		{
+		  "horaPrevision": "20:00-07:59",
+		  "humedadRelativa": "100",
+		  "temperaturaAire": ">43",
+		  "humedadResultado": 25
+		}
+	  ]
+	}
+  }

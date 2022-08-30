@@ -1,0 +1,36 @@
+{
+  "name": "dfmc-wilfire-calculator",
+  "version": "1.0.0",
+  "description": "Dead Fuel Moisture Content (DFMC) estimation",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniovlx/dfmc-wildfire-calculator.git"
+  },
+  "keywords": [
+    "dead",
+    "fuel",
+    "moisture",
+    "content",
+    "wildfire",
+    "fire"
+  ],
+  "author": "Antonio Vida <antoniovlx@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniovlx/dfmc-wildfire-calculator/issues"
+  },
+  "homepage": "https://github.com/antoniovlx/dfmc-wildfire-calculator#readme",
+  "dependencies": {
+    "xmldom": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.5",
+    "typescript": "^4.7.4"
+  }
+}

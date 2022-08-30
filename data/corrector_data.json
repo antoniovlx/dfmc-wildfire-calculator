@@ -1,0 +1,1734 @@
+{
+  "entradas": {
+    "entrada": [
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 0
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "May-June-July",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "February-March-April-August-September-October",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 1
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 2
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 4
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 3
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0-30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Exposed",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": ">30",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "08:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "10:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "12:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "14:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "16:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "N",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "E",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "S",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      },
+      {
+        "mesPrevision": "November-December-January",
+        "suelo": "Shaded",
+        "horaSolar": "18:00",
+        "exposicion": "W",
+        "pendienteHumedad": "0",
+        "humedadResultado": 5
+      }
+    ]
+  }
+}
