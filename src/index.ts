@@ -59,7 +59,7 @@ function checkFields(predictionTime: string, predictionMonth: number, solarTime:
     }
 
     // predictionMonth
-    if (relativeHumidity > 12 || relativeHumidity < 1) {
+    if (predictionMonth > 12 || predictionMonth < 1) {
         throw new RangeError("predictionMonth must be between [1, 12]");
     }
 
