@@ -1,6 +1,39 @@
-Dead fuel moisture responds solely to ambient environmental conditions and is critical in determining fire potential. 
 
-This library estimate % of Dead Fuel Moisture Content (DFMC) (< 6mm) for a prediction input values:
+# DFMC Calculator
+
+## Install
+
+```js
+npm install dfmc-wildfire-calculator
+```
+
+## Table of Contents
+
+- [What is it](#what-is-it)
+- [Usage](#usage)
+- [Paremeters](#parameters)
+
+## What is it
+
+Dead fuel moisture responds solely to ambient environmental conditions and is critical in determining fire potential. 
+This library estimate the percentage of [Dead Fuel Moisture Content (DFMC)](https://www.mdpi.com/2072-4292/13/21/4224) (< 6mm) for a prediction input values.
+
+It can be used both in the **browser** and in **Node.js**.
+
+## Usage
+
+```ts
+import { estimateDFMC } from 'dfmc-wildfire-calculator';
+console.log(estimateDFMC("15:00", 2, "12:00", 21, 12, "Exposed", 13, "W")); // print 4 => 4% (DFMC with <6mm)
+```
+
+```js
+const wildfire = require('dfmc-wildfire-calculator');
+console.log(wildfire.estimateDFMC("15:00", 2, "12:00", 21, 12, "Exposed", 13, "W")); // print 4 => 4% (DFMC with <6mm)
+
+```
+
+## Parameters
 
 ```
  * @description This function estimate the DFMC (Dead Fuel Moisture Content DFMC estimation)
@@ -14,7 +47,3 @@ This library estimate % of Dead Fuel Moisture Content (DFMC) (< 6mm) for a predi
  * @param  {AspectValues} aspect - Values: "N" (North), "S" (South), "W" (West), "E" (East)
  * @returns {number} Dead Fuel Moisture Content estimation (< 6mm) in percentage (%)
  ```
-
- 
-
-
