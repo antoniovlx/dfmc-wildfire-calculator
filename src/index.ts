@@ -31,9 +31,9 @@ export function estimateDFMC(predictionTime: string, predictionMonth: number, so
     var dfmc = 0;
 
     if (checkFields(predictionTime, predictionMonth, solarTime, airTemperature, relativeHumidity, soil, slope, aspect)) {
-        let predictionTimeString = getPredictionTimeString(slope);
-        let airTemperatureString = getAirTemperatureString(slope);
-        let relativeHumidityString = getRelativeHumidityString(slope);
+        let predictionTimeString = getPredictionTimeString(predictionTime);
+        let airTemperatureString = getAirTemperatureString(airTemperature);
+        let relativeHumidityString = getRelativeHumidityString(relativeHumidity);
 
         dfmc = findDFMCRegistry(predictionTimeString, airTemperatureString, relativeHumidityString);
 
