@@ -139,17 +139,18 @@ function getRelativeHumidityString(hrValue) {
     let minInterval = 0;
     let maxInterval = 4;
 
-    if(hrValue === 100){
+    let roundedHrValue = Math.round(hrValue);
+
+    if (roundedHrValue === 100) {
         return "100";
     }
-    
     while (maxInterval != 99) {
-        if (hrValue >= minInterval && hrValue <= maxInterval) {
+        if (roundedHrValue >= minInterval && roundedHrValue <= maxInterval) {
             return minInterval + "-" + maxInterval;
         }
         minInterval += 5;
         maxInterval += 5;
-    } 
+    }
 }
 function getSlopeString(slope) {
     if (slope > 0 && slope <= 30) {
