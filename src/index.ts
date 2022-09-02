@@ -110,7 +110,7 @@ function getPredictionMonthString(monthValue: number): string {
 }
 
 
-function getPredictionTimeString(timeValue) {
+function getPredictionTimeString(timeValue: string) {
     if (timeValue >= "08:00" && timeValue <= "19:59") {
         return "08:00-19:59";
     }
@@ -119,19 +119,21 @@ function getPredictionTimeString(timeValue) {
     }
 }
 function getAirTemperatureString(temperature) {
-    if (temperature >= 0 && temperature <= 9) {
+    let roundedTemperatureValue = Math.round(temperature);
+
+    if (roundedTemperatureValue >= 0 && roundedTemperatureValue <= 9) {
         return "0-9";
     }
-    else if (temperature >= 10 && temperature <= 20) {
+    else if (roundedTemperatureValue >= 10 && roundedTemperatureValue <= 20) {
         return "10-20";
     }
-    else if (temperature >= 21 && temperature <= 31) {
+    else if (roundedTemperatureValue >= 21 && roundedTemperatureValue <= 31) {
         return "21-31";
     }
-    else if (temperature >= 32 && temperature <= 42) {
+    else if (roundedTemperatureValue >= 32 && roundedTemperatureValue <= 42) {
         return "32-42";
     }
-    else if (temperature >= 43) {
+    else if (roundedTemperatureValue >= 43) {
         return "43";
     }
 }
