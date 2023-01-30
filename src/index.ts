@@ -4,7 +4,7 @@ import entradas from '../data/data.json';
 import entradasCorrector from '../data/corrector_data.json';
 import { toMonthName } from './util';
 
-const aspectValues = new Set(['N', 'S', 'W', 'O'] as const);
+const aspectValues = new Set(['N', 'S', 'W', 'E'] as const);
 const solarTimeValues = new Set(['08:00', '10:00', '12:00', '14:00', '16:00', '18:00'] as const);
 const soilValues = new Set(['Exposed', 'Shaded'] as const);
 const monthPredictionValues = new Set(['February-March-April-August-September-October', 'May-June-July', 'November-December-January'] as const);
