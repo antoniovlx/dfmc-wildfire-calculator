@@ -1,6 +1,6 @@
 {
   "name": "dfmc-wildfire-calculator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Dead Fuel Moisture Content (DFMC) estimation",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
