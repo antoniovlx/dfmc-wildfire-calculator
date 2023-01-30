@@ -1,15 +1,15 @@
 {
   "name": "dfmc-wildfire-calculator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Dead Fuel Moisture Content (DFMC) estimation",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
-    "prepare" : "npm run build",
-    "prepublishOnly" : "npm test",
-    "postversion" : "git push && git push --tags"
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
