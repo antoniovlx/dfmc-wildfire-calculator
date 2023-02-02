@@ -134,7 +134,7 @@ function getAirTemperatureString(temperature) {
         return "32-42";
     }
     else if (roundedTemperatureValue >= 43) {
-        return "43";
+        return ">43";
     }
 }
 function getRelativeHumidityString(hrValue) {
