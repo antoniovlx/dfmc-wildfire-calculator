@@ -146,7 +146,7 @@ function getRelativeHumidityString(hrValue) {
     if (roundedHrValue === 100) {
         return "100";
     }
-    while (maxInterval != 99) {
+    while (maxInterval <= 99) {
         if (roundedHrValue >= minInterval && roundedHrValue <= maxInterval) {
             return minInterval + "-" + maxInterval;
         }
