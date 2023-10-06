@@ -59,7 +59,7 @@ function checkFields(predictionTime: string, predictionMonth: number, solarTime:
     }
 
     // predictionMonth
-    if (predictionMonth > 12 || predictionMonth < 1) {
+    if (predictionMonth && (predictionMonth > 12 || predictionMonth < 1)) {
         throw new RangeError("predictionMonth must be between [1, 12]");
     }
 
@@ -69,12 +69,12 @@ function checkFields(predictionTime: string, predictionMonth: number, solarTime:
     }
 
     // airTemperature
-    if (airTemperature > 200 || relativeHumidity < 0) {
+    if (airTemperature && (airTemperature > 200 || airTemperature < 0)) {
         throw new RangeError("airTemperature must be between [0, 200]");
     }
 
     // relativeHumidity
-    if (relativeHumidity > 100 || relativeHumidity < 0) {
+    if (relativeHumidity && (relativeHumidity > 100 || relativeHumidity < 0)) {
         throw new RangeError("relativeHumidiy must be between [0, 100]");
     }
 
@@ -84,7 +84,7 @@ function checkFields(predictionTime: string, predictionMonth: number, solarTime:
     }
 
     // slope
-    if (slope > 90 || slope < 0) {
+    if (slope && (slope > 90 || slope < 0)) {
         throw new RangeError("slope must be between [0, 90]");
     }
 
@@ -198,7 +198,3 @@ function findDFMCCorrectorRegistry(predictionMonth: string, soil: string, aspect
         }
     }
 }
-
-
-
-
